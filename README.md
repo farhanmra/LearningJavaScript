@@ -1,0 +1,2 @@
+# LearningJavaScript
+latihan aja
